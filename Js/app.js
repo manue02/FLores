@@ -11,10 +11,10 @@ window.addEventListener("focus", () => {
 
 document.getElementById("B12").addEventListener("click", () => {
 	//redirigir a la pagina de index.html
-	window.location.href = "../HTML/index.html";
+	window.location.href = "HTML/index.html";
 });
 
 document.getElementById("B1").addEventListener("click", () => {
 	//redirigir a la pagina de index.html
-	window.location.href = "../HTML/unaFlor.html";
+	window.location.href = "HTML/unaFlor.html";
 });
